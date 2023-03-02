@@ -140,3 +140,6 @@ for file_path in directory.glob('*.md'):
             # Write the updated content back to the file
             with open(file_path, 'w') as file:
                 file.write(new_content)
+                
+# delete all .txt and .vtt files in the current directory
+os.system("rm *.txt *.vtt")
