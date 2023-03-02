@@ -6,7 +6,5 @@ heroku==0.1.4
 openai==0.26.0
 regex==2022.10.31
 requests==2.25.1
-systemd-python==234
-virtualenv==20.13.0+ds
 youtube-dl==2021.12.17
 yt-dlp==2023.2.17
