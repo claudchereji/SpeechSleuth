@@ -13,9 +13,12 @@ Before using SpeechSleuth, you will need to have the following installed:
 
 ## Installation
 
-    Clone the SpeechSleuth repository to your local machine.
-    Install the required Python packages by running pip install openai in the command line.
-    Set up your OpenAI API key as an environment variable by setting the OPENAI_API_KEY variable to your key.
+Clone the SpeechSleuth repository to your local machine. 
+```https://github.com/claudchereji/SpeechSleuth.git```
+or
+[Download the zip file](https://github.com/claudchereji/SpeechSleuth/archive/refs/heads/main.zip)
+Install the required Python packages by running pip install openai in the command line.
+Set up your OpenAI API key as an environment variable by setting the OPENAI_API_KEY variable to your key.
 
 ## Usage
 
