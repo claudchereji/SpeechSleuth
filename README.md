@@ -1,5 +1,7 @@
 # SpeechSleuth :speech_balloon: :mag:
 
+
+![Project Image](https://github.com/claudchereji/SpeechSleuth/blob/main/Untitled_Artwork1_11.png?raw=true)
 SpeechSleuth is a powerful tool that utilizes yt-dlp to retrieve auto-generated subtitles from any YouTube channel that the user chooses. These subtitles are then converted from VTT to plain text, with most of the time codes removed. This plain text is then formatted into Markdown for a clean, easy-to-read layout. Finally, each segment of the Markdown file is analyzed by OpenAI for paragraph summarization, allowing for quick indexing and search functionality.
 
 ## Prerequisites
